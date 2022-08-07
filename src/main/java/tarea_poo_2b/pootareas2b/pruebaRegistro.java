@@ -157,7 +157,7 @@ public class pruebaRegistro {
         jugador _jugador= new jugador();
         games juegos = new games();
         
-        System.out.println("\nIngrese el id jugador: ");_jugador.setIdJugador(entrada.next());
+        System.out.println("\nIngrese el ID jugador: ");_jugador.setIdJugador(entrada.next());
         System.out.println("""
                            Ingrese el nombre del juego: 
                            Pacman
